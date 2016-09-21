@@ -1,11 +1,35 @@
-I love Starbucks.
+<!DOCTYPE html>
+<html lang="en" >
 
-Hobbies:
-Makeup
-Read Books
-
-
-Family
-3 siblings
+ <head>
+        <title>About Me </title>
+        
+ </head>
+     
+     <body>
+	 
+	 
+	 <h3>Hobbies</h3>
+        <p>I love to read during my timeoff. </p>
+		<br>Some of my favorite novels are
+			<ul>
+			<li>Pride and Prejustice
+			<li>The Great Gasby
+			</ul>
+		<br>Favorite TV shows
+			<ul>
+			<li>Shameless
+			<li>Orange is the new Black
+			<li>Big Bang
+			</ul>
+			
+    
+    
+     </body> 
+     
+	
+	
+	
+</html>
 
 
