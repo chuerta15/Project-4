@@ -7,6 +7,18 @@
  </head>
      
      <body>
+     
+     <h2>Picture of Me</h2>
+     	<figure>
+     	<img scr = "me.jpg" alt="This is a picture of me" 
+     	
+     	width="350"
+     	height="245">
+     	
+     	<figcaption>I took this picture in the Hancock Observatory.
+     	
+     	</figure>
+     	
 	 
 	 
 	 <h3>Hobbies</h3>
