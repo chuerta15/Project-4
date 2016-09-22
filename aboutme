@@ -7,20 +7,12 @@
  </head>
      
      <body>
-     
-     <h2>Picture of Me</h2>
-     	<figure>
-     	<img src= "images/me.jpg">
-     	alt="Chicago"
-     	
-     	width="350"
-     	height="245">
-     	
-     	<figcaption>This is a picture of me in the Hancock Observatory
-     	
-     	</figcaption>
      	
      	</figure>
+     	
+     <h3>More About Me 
+     	<p> I was born and raised in Chicago. I have 2 siblings and a little nephew. 
+     	My future plan is complete my Bachelors degree and start my own business. 
      	
 	 
 	 
