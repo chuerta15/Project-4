@@ -10,12 +10,12 @@
      
      <h2>Picture of Me</h2>
      	<figure>
-     	<img scr = "me.jpg" alt="This is a picture of me" 
+     	<img scr = "me.jpg" 
      	
      	width="350"
      	height="245">
      	
-     	<figcaption>I took this picture in the Hancock Observatory.
+     	<figcaption>This is a picture of me in the Hancock Observatory 
      	
      	</figure>
      	
