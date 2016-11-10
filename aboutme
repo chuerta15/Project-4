@@ -3,8 +3,17 @@
 
  <head>
         <title>About Me </title>
+		<meta charset = "utf-8"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
+			
         
  </head>
+		<nav>
+			<ul>
+				<li><a href="#">Resume</a></li>
+				<li><a href="#">Video</a></li>
+			</ul>
+		</nav>
      
      <body>
      	
@@ -20,13 +29,13 @@
         <p>I love to read during my timeoff. </p>
 		<br>Some of my favorite novels are
 			<ul>
-			<li>Pride and Prejustice
-			<li>The Great Gasby
+				<li>Pride and Prejustice
+				<li>The Great Gasby
 			</ul>
 		<br>Favorite TV shows
 			<ul>
-			<li>Orange is the new Black
-			<li>Big Bang
+				<li>Orange is the new Black
+				<li>Big Bang
 			</ul>
 			
     
