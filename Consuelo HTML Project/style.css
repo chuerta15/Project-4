@@ -14,7 +14,21 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 */
 
 
-body {margin:; padding:;}
+/* ==== Body ==== */
+
+
+	body{
+		margin:;
+		padding:;
+		font: normal 100% "Arial Black", Gadget, sans-serif;
+	}
+	.page{
+		width: 960px;
+		margin:0 auto;
+	
+	}
+	
+/* ==== Navigation ==== */	
 	nav{
 		background-color: black;
 		height:50px;
@@ -38,14 +52,25 @@ body {margin:; padding:;}
 		line-height: 50px;
 	}
 	
+/*==== Header ==== */
+	
+ 	
 	h1{
 		text-align: center;
 		font-size: 1.5 em; /*24px / 16px */
 	}
 	
+	h2{
+		
+	}
+	
+	h3{
+		
+	}
 	h5{
 		text-align:center;
 	}
+	
 	
 	img{
 		display: block;
@@ -55,4 +80,4 @@ body {margin:; padding:;}
 			
 		 
 		 
-		
+		y
