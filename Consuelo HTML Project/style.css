@@ -14,7 +14,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 */
 
 
-body {margin:; padding:0;}
+body {margin:; padding:;}
 	nav{
 		background-color: black;
 		height:50px;
@@ -40,12 +40,19 @@ body {margin:; padding:0;}
 	
 	h1{
 		text-align: center;
+		font-size: 1.5 em; /*24px / 16px */
+	}
+	
+	h5{
+		text-align:center;
+	}
+	
+	img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+			
+		 
+		 
 		
-	}
-	
-	td {
-		padding-right:40%;
-	}
-
-	
-	
